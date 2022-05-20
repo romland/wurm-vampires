@@ -1,3 +1,5 @@
+Note: I do not know whether this mod works on latest version of Wurm Unlimited. In general, though, pretty small patches are needed for upgrades.
+
 The Game
 --------
 The primary goal of the mod is to add an element of opt-in PvP to PvE servers. The "currency" stolen between the competing parties are skills and affinities.
